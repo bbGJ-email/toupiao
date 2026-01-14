@@ -1,0 +1,14 @@
+{
+  "name": "toupiao",
+  "version": "1.0.0",
+  "description": "投票系统",
+  "main": "backend/server.js",
+  "scripts": {
+    "install": "cd backend && npm install",
+    "build": "exit 0",
+    "start": "cd backend && npm start"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
